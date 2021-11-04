@@ -18,7 +18,7 @@ CHK_UPDATE=0
 CHK_PIKISS_UPDATE=0
 NOINTERNETCHECK=0
 wHEIGHT=20
-wWIDTH=90
+wWIDTH=180
 check_board
 check_temperature
 check_CPU
